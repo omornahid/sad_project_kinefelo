@@ -18,15 +18,18 @@
 <!--header end-->
 <!--banner start-->
  <section class="banner">
+
  	<div class="container">
  		<div class="gifting">
- 			<a><img width="40%" src="images/gift.png" alt=""></a>
- 		<h1>Gifting</h1>
+ 			<a href="payment.php"><img width="40%" src="images/gift.png" alt=""></a>
+ 		<h1 >Gifting</h1>
  		</div>
+
  		<div class="personal">
 		 <a href="payment.php"><img width="40%" src="images/personal.png" alt="personal"></a>
  			<h1>Personal </h1>
  		</div>
+		 
  	</div>
  </section>
 
